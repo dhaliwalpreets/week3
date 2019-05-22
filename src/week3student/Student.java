@@ -41,6 +41,20 @@ public class Student {
     public void setFirstname(String firstname) {
         this.firstname = firstname;
     }
+
+    /**
+     * @return the maxCourse
+     */
+    public int getMaxCourse() {
+        return maxCourse;
+    }
+
+    /**
+     * @param maxCourse the maxCourse to set
+     */
+    public void setMaxCourse(int maxCourse) {
+        this.maxCourse = maxCourse;
+    }
     
     
 }
