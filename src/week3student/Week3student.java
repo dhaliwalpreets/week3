@@ -15,6 +15,7 @@ public class Week3student {
         Student s1=new Student();
         s1.setFirstname("jatta");
         s1.setId(855);
+        System.out.println("classs  is interesting");
         
     }
     
